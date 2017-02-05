@@ -1,3 +1,3 @@
 # JavaScript
 
-Collection my scripts and copying from web for archive.
+Collection of my scripts and copying from web for archive.
